@@ -1,0 +1,5 @@
+# analyzeAIData
+the extension analyze Illustrator data from top of layer  to pageItems
+
+イラストレーター上のレイヤー、グループアイテム、アイテムを全て解析するExtensionです。解析したデータはパネル上にリストで表示します。
+複雑なデータだと処理が重くなることがあります。元々レイヤーからパスアイテムまでどのようにjsxからアクセルするのか調べるために作ったExtensionですが何かの参考になれば。
